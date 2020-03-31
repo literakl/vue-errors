@@ -1,24 +1,8 @@
-# hello-world
+This project is a demonstration of a problem described at https://stackoverflow.com/questions/60935967/vue-show-line-with-error-in-chrome-dev-tools
 
-## Project setup
-```
-npm install
-```
+Open the page in Google Chrome in dev tools and look to Console. The error does not indicate the location of the bug.
+
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
